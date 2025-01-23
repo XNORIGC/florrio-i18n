@@ -1,5 +1,5 @@
 Mobs/AnnouncementPrefix={#Rarities/{0:rarity}/ArticleUpper} {#Rarities/{0:rarity}/Name} {#Mobs/{0:base}/Name}
-Petals/AnnouncementPrefix={#Rarities/{0:rarity}/ArticleUpper} {#Rarities/{0:rarity}/Name} {#Petals/{0:base}/Name}
+Petals/AnnouncementPrefix={#Rarities/{0:rarity}/ArticleUpper} {#Rarities/{0:rarity}/Name} {#Petals/{0:base}/FullName}
 
 Chat/PetalCraftedUnnamed={#Petals/AnnouncementPrefix:0} has been crafted!
 Chat/PetalCraftedNamed={#Petals/AnnouncementPrefix:0} has been crafted by {1}!
