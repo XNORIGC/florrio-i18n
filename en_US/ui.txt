@@ -8,6 +8,7 @@ UI/TimeLeft/Nseconds=in {0} seconds
 UI/TimeLeft/Now=any second now
 
 UI/Petal/Name={#Petals/{0:base}/Name}
+UI/Petal/FullName={#Petals/{0:base}/FullName}
 UI/Petal/Description={#Petals/{0:base}/Description}
 UI/Petal/Rarity={#Rarities/{0:rarity}/Name}
 
