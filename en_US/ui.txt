@@ -10,3 +10,7 @@ UI/TimeLeft/Now=any second now
 UI/Petal/Name={#Petals/{0:base}/Name}
 UI/Petal/Description={#Petals/{0:base}/Description}
 UI/Petal/Rarity={#Rarities/{0:rarity}/Name}
+
+UI/Mob/Name={#Mobs/{0:base}/Name}
+UI/Mob/Description={#Mobs/{0:base}/Description}
+UI/Mob/Rarity={#Rarities/{0:rarity}/Name}
