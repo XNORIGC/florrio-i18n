@@ -10,6 +10,15 @@ Chat/MobSpawnedSomewhere={#Mobs/AnnouncementPrefix:0} has spawned somewhere!
 Chat/MobDefeatedUnnamed={#Mobs/AnnouncementPrefix:0} has been defeated!
 Chat/MobDefeatedNamed={#Mobs/AnnouncementPrefix:0} has been defeated by {1}!
 
+Chat/Revived=You were revived by {0}.
+Chat/Marked=You were marked by {0}.
+
 Chat/Muted=You are not allowed to chat right now because of past inappropriate messages.<n/>You'll be able to chat again {0:timeLeft}.
 Chat/Spam=You're doing that too much.
 Chat/Alone=No one is around to hear you.
+Chat/Banned=You're currently banned so you will not be able to play.
+Chat/NegativeStars=Your payment for stars was reversed, you cannot play while your balance is negative.
+Chat/BadChannel=You can't do that
+Chat/SquadChannelNotInSquad=Not in a squad.
+Chat/GuildChannelNotInGuild=Not in a guild.
+Chat/GuildChannelDisabled=You have guild chat disabled.
