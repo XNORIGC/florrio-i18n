@@ -1,0 +1,8 @@
+UI/TimeLeft/1day=in 1 day
+UI/TimeLeft/Ndays=in {0} days
+UI/TimeLeft/Nhours=in {0} hours
+UI/TimeLeft/1minute=in 1 minute
+UI/TimeLeft/Nminutes=in {0} minutes
+UI/TimeLeft/1second=in 1 second
+UI/TimeLeft/Nseconds=in {0} seconds
+UI/TimeLeft/Now=any second now

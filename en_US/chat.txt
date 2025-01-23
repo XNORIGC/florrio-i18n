@@ -1,0 +1,15 @@
+Mobs/AnnouncementPrefix={#Rarities/{0:rarity}/ArticleUpper} {#Rarities/{0:rarity}/Name} {#Mobs/{0:base}/Name}
+Petals/AnnouncementPrefix={#Rarities/{0:rarity}/ArticleUpper} {#Rarities/{0:rarity}/Name} {#Petals/{0:base}/Name}
+
+Chat/PetalCraftedUnnamed={#Petals/AnnouncementPrefix:0} has been crafted!
+Chat/PetalCraftedNamed={#Petals/AnnouncementPrefix:0} has been crafted by {1}!
+
+Chat/MobSpawnedHere={#Mobs/AnnouncementPrefix:0} has spawned!
+Chat/MobSpawnedSomewhere={#Mobs/AnnouncementPrefix:0} has spawned somewhere!
+
+Chat/MobDefeatedUnnamed={#Mobs/AnnouncementPrefix:0} has been defeated!
+Chat/MobDefeatedNamed={#Mobs/AnnouncementPrefix:0} has been defeated by {1}!
+
+Chat/Muted=You are not allowed to chat right now because of past inappropriate messages.<n/>You'll be able to chat again {0:timeLeft}.
+Chat/Spam=You're doing that too much.
+Chat/Alone=No one is around to hear you.
