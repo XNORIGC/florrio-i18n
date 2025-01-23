@@ -33,7 +33,7 @@ UI/Petal/Rarity={#Rarities/{0:rarity}/Name/{#Petals/{0:base}/Gender}}
 - `{0:timeLeft}` Will be print as a "time left" timestamp. Assumes number is in seconds. It'll transform into something like `in X seconds` or `in 3 hours` for larger numbers.
 
 ### String
-- `{0}` Will print in escaped form (< will turn into &lt;, > will turn into &gt;, etc.). This is mostly used when printing player names or other user text, to prevent them from using colors
+- `{0}` Will print in escaped form (< will turn into &amp;lt;, > will turn into &amp;gt;, etc.). This is mostly used when printing player names or other user text, to prevent them from using colors
 - `{0:raw}` Will print raw
 
 ### Mob Type
