@@ -14,7 +14,7 @@ In Portuguese, you'd need to take into account the gender:
 
 ```
 Rarities/rare/Name/Female=Rara
-Rarities/rare/Name/Male=Rara
+Rarities/rare/Name/Male=Raro
 [...]
 Petals/rose/Gender=Female
 [...]
