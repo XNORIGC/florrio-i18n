@@ -6,3 +6,7 @@ UI/TimeLeft/Nminutes=in {0} minutes
 UI/TimeLeft/1second=in 1 second
 UI/TimeLeft/Nseconds=in {0} seconds
 UI/TimeLeft/Now=any second now
+
+UI/Petal/Name={#Petals/{0:base}/Name}
+UI/Petal/Description={#Petals/{0:base}/Description}
+UI/Petal/Rarity={#Rarities/{0:rarity}/Name}
