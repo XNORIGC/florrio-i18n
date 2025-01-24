@@ -156,7 +156,7 @@ Petals/uranium/Description=Periodically releases radiation.<n/>-75% damage versu
 
 Petals/sponge/Name=Sponge
 Petals/sponge/FullName=Sponge
-Petals/sponge/Description=Spreads damage taken by the flower over a period of time.<n/>If destroyed, deals remaining damage all at once.<n/>Does not delay <c val="#ce76db">Poison</c> damage.
+Petals/sponge/Description=Spreads damage taken by the flower over a period of time.<n/>If destroyed, deals remaining damage all at once.<n/>Does not delay {#UI/Attribute/PoisonColored} damage.
 
 Petals/soil/Name=Soil
 Petals/soil/FullName=Soil
@@ -308,7 +308,7 @@ Petals/moon/Description=This thing is so big your petals orbit it instead.<n/>Wh
 
 Petals/privet/Name=Privet
 Petals/privet/FullName=Privet Berry
-Petals/privet/Description=Deals extra <c val="#ce76db">Poison</c> damage based on the existing <c val="#ce76db">Poison</c> damage per second.
+Petals/privet/Description=Deals extra {#UI/Attribute/PoisonColored} damage based on the existing {#UI/Attribute/PoisonColored} damage per second.
 
 Petals/glass/Name=Glass
 Petals/glass/FullName=Glass

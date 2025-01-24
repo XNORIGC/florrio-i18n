@@ -15,3 +15,29 @@ UI/Petal/Rarity={#Rarities/{0:rarity}/Name}
 UI/Mob/Name={#Mobs/{0:base}/Name}
 UI/Mob/Description={#Mobs/{0:base}/Description}
 UI/Mob/Rarity={#Rarities/{0:rarity}/Name}
+
+UI/Talent/Rarity={#Rarities/{0}/Name}
+
+UI/Attribute/Health=Health
+UI/Attribute/HealthColored=<c val="#66FF66">{#UI/Attribute/Health}</c>
+
+UI/Attribute/FlowerHealth=Flower Health
+UI/Attribute/FlowerHealthColored=<c val="#66FF66">{#UI/Attribute/FlowerHealth}</c>
+
+UI/Attribute/BodyDamage=Body Damage
+UI/Attribute/BodyDamageColored=<c val="#FF6666">{#UI/Attribute/BodyDamage}</c>
+
+UI/Attribute/Poison=Poison
+UI/Attribute/PoisonColored=<c val="#ce76db">{#UI/Attribute/Poison}</c>
+
+UI/Attribute/Luck=Luck
+UI/Attribute/LuckColored=<c val="#d2eb34">{#UI/Attribute/Luck}</c>
+
+UI/Attribute/Healing=Healing
+UI/Attribute/HealingColored=<c val="#ff94c9">{#UI/Attribute/Healing}</c>
+
+UI/Attribute/RotationSpeed=Rotation Speed
+UI/Attribute/RotationSpeedColored=<c val="#d2eb34">{#UI/Attribute/RotationSpeed}</c>
+
+UI/Attribute/AttackRange=Attack Range
+UI/Attribute/AttackRangeColored=<c val="#d2eb34">{#UI/Attribute/AttackRange}</c>
