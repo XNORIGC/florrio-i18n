@@ -218,3 +218,6 @@ Mobs/mecha_flower/Description=Someone has been making these mechanical flowers..
 
 Mobs/wasp_mecha/Name=Mecha Wasp
 Mobs/wasp_mecha/Description=They're MECHA ANGRY.
+
+Mobs/spider_mecha/Name=Mecha Spider
+Mobs/spider_mecha/Description=Mecha Spooky.
