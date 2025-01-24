@@ -216,8 +216,8 @@ Mobs/worm_guts/Description=You're not supposed to see this text. I'm calling the
 Mobs/mecha_flower/Name=Mecha Flower
 Mobs/mecha_flower/Description=Someone has been making these mechanical flowers... What could this mean?
 
-Mobs/wasp_mecha/Name=Mecha Wasp
+Mobs/wasp_mecha/Name=Wasp
 Mobs/wasp_mecha/Description=They're MECHA ANGRY.
 
-Mobs/spider_mecha/Name=Mecha Spider
+Mobs/spider_mecha/Name=Spider
 Mobs/spider_mecha/Description=Mecha Spooky.
