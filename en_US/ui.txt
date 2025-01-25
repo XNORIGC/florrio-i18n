@@ -25,6 +25,11 @@ UI/Craft/UnknownChance=?% success chance
 UI/Craft/CombineInstruction=Combine {0} of the same petal to craft an upgrade
 UI/Craft/FailureInstruction=Failure will destroy {0}-{1} petals
 
+UI/CoinCraft/Title=Trade
+UI/CoinCraft/Button=Trade
+UI/CoinCraft/Instruction=You can trade a petal for a coin of the same rarity
+UI/CoinCraft/Delay=You'll be able to trade again {0:timeLeft}
+
 UI/OracleCraft/Title=Oracle
 UI/OracleCraft/Button=Craft
 
