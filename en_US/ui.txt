@@ -32,6 +32,8 @@ UI/CoinCraft/Delay=You'll be able to trade again {0:timeLeft}
 
 UI/OracleCraft/Title=Oracle
 UI/OracleCraft/Button=Craft
+UI/OracleCraft/Instruction=The Oracle will guarantee a craft... for the right price.
+UI/OracleCraft/Delay=You'll be able to craft again {0:timeLeft}
 
 UI/Death/Poison=Poison
 
