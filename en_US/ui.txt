@@ -35,6 +35,8 @@ UI/OracleCraft/Button=Craft
 UI/OracleCraft/Instruction=The Oracle will guarantee a craft... for the right price.
 UI/OracleCraft/Delay=You'll be able to craft again {0:timeLeft}
 
+UI/Plinko/Title=Plinko
+
 UI/Death/Poison=Poison
 
 UI/Attribute/Health=Health
