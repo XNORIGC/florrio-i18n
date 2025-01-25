@@ -36,6 +36,7 @@ UI/OracleCraft/Instruction=The Oracle will guarantee a craft... for the right pr
 UI/OracleCraft/Delay=You'll be able to craft again {0:timeLeft}
 
 UI/Plinko/Title=Plinko
+UI/Plinko/Auto=Auto
 
 UI/Death/Poison=Poison
 
