@@ -25,6 +25,10 @@ UI/Craft/UnknownChance=?% success chance
 UI/Craft/CombineInstruction=Combine {0} of the same petal to craft an upgrade
 UI/Craft/FailureInstruction=Failure will destroy {0}-{1} petals
 
+UI/Absorb/Title=Absorb
+UI/Absorb/Button=Absorb
+UI/Absorb/Instruction=Absorb petals to gain XP<n/><c val="#FF6666">WARNING: The petals will be destroyed in the process</c>
+
 UI/CoinCraft/Title=Trade
 UI/CoinCraft/Button=Trade
 UI/CoinCraft/Instruction=You can trade a petal for a coin of the same rarity
