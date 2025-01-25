@@ -18,7 +18,15 @@ UI/Mob/Rarity={#Rarities/{0:rarity}/Name}
 
 UI/Talent/Rarity={#Rarities/{0}/Name}
 
+UI/Craft/Title=Craft
+UI/Craft/Button=Craft
+UI/Craft/Chance={0:perc}% success chance
+UI/Craft/UnknownChance=?% success chance
+UI/Craft/CombineInstruction=Combine {0} of the same petal to craft an upgrade
+UI/Craft/FailureInstruction=Failure will destroy {0}-{1} petals
+
 UI/OracleCraft/Title=Oracle
+UI/OracleCraft/Button=Craft
 
 UI/Death/Poison=Poison
 
