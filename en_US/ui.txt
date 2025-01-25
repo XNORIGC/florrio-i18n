@@ -38,6 +38,11 @@ UI/OracleCraft/Delay=You'll be able to craft again {0:timeLeft}
 UI/Plinko/Title=Plinko
 UI/Plinko/Auto=Auto
 
+UI/UniqueCraft/Title=Forge
+UI/UniqueCraft/Button=Forge
+UI/UniqueCraft/Instruction=Unique petals will last until another player forges the same petal.<n/>When that happens, you will receive your Super petals back.<n/>The cost increases each time that petal is forged.
+UI/UniqueCraft/NoSupers=You do not have any Super petals to attempt this.
+
 UI/Death/Poison=Poison
 
 UI/Attribute/Health=Health
