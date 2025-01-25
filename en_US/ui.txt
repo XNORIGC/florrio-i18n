@@ -1,3 +1,5 @@
+UI/Language/Name=English (US)
+
 UI/TimeLeft/1day=in 1 day
 UI/TimeLeft/Ndays=in {0} days
 UI/TimeLeft/Nhours=in {0} hours
@@ -6,6 +8,25 @@ UI/TimeLeft/Nminutes=in {0} minutes
 UI/TimeLeft/1second=in 1 second
 UI/TimeLeft/Nseconds=in {0} seconds
 UI/TimeLeft/Now=any second now
+
+UI/Title/Loading=Loading...
+UI/Title/Connecting=Connecting...
+UI/Title/LoggingIn=Logging in...
+
+UI/Login/PlayAsGuest=Play as guest
+UI/Login/SignInApple=Sign in with Apple
+UI/Login/SignInDiscord=Sign in with Discord
+UI/Login/Logout=Logout
+UI/Login/AccountID=Account ID:
+UI/Login/Connecting=(connecting)
+UI/Login/GuestName=Guest
+UI/Login/GuestInfo=If you already have a guest account in this device,<n/>signing in will link that account and keep your progress.
+UI/Login/LinkInfo=You can link your account to<n/>keep your progress across devices.
+UI/Login/Linked=Linked
+UI/Login/SupportPIN=Support PIN: {0}
+UI/Login/SupportPINHidden=Support PIN: (click to show)
+UI/Login/SupportPINInstruction1=Save this in case you lose access to your account
+UI/Login/SupportPINInstruction2=Do not share your support PIN with anyone
 
 UI/Petal/Name={#Petals/{0:base}/Name}
 UI/Petal/FullName={#Petals/{0:base}/FullName}
