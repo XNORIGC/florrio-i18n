@@ -1,0 +1,23 @@
+Maps/ant_hell/Name=Ant Hell
+
+Maps/ant_hole1/Name=Termite Mound
+Maps/ant_hole2/Name=Termite Mound
+Maps/ant_hole3/Name=Termite Mound
+Maps/ant_hole4/Name=Termite Mound
+Maps/ant_hole5/Name=Termite Mound
+
+Maps/battle_ground/Name=Battle Ground
+
+Maps/desert/Name=Desert
+
+Maps/garden/Name=Garden
+
+Maps/hel/Name=Hel
+
+Maps/jungle/Name=Jungle
+
+Maps/ocean/Name=Ocean
+
+Maps/sewers/Name=Sewers
+
+Maps/worm/Name=Worm
