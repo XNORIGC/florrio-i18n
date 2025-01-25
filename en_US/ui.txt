@@ -1,5 +1,23 @@
 UI/Language/Name=English (US)
 
+UI/Time/1day=1 day
+UI/Time/Ndays={0} days
+UI/Time/Nhours={0} hours
+UI/Time/1minute=1 minute
+UI/Time/Nminutes={0} minutes
+UI/Time/1second=1 second
+UI/Time/Nseconds={0} seconds
+UI/Time/Now=immediately
+
+UI/TooltipTime/1day=1 day
+UI/TooltipTime/Ndays={0:tooltip} days
+UI/TooltipTime/Nhours={0:tooltip} hours
+UI/TooltipTime/1minute=1 minute
+UI/TooltipTime/Nminutes={0:tooltip} minutes
+UI/TooltipTime/1second=1 second
+UI/TooltipTime/Nseconds={0:tooltip} seconds
+UI/TooltipTime/Now=immediately
+
 UI/TimeLeft/1day=in 1 day
 UI/TimeLeft/Ndays=in {0} days
 UI/TimeLeft/Nhours=in {0} hours

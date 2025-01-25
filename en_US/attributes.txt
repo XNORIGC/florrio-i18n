@@ -1,0 +1,68 @@
+Petal/Attribute/Health=<c val="#66FF66">Health:</c> {0:tooltip}
+Petal/Attribute/Damage=<c val="#FF6666">Damage:</c> {0:tooltip}
+Petal/Attribute/Damage/Lightning=<c val="#FF6666">Damage:</c> {0:tooltip} <c val="#36ffe7">(lightning)</c>
+Petal/Attribute/DamageRange=<c val="#FF6666">Damage:</c> {0:tooltip}~{1:tooltip}
+Petal/Attribute/Armor=<c val="#666666">Armor:</c> {0:tooltip}
+Petal/Attribute/RotationSpeed=<c val="#d2eb34">Rotation Speed:</c> +{0:tooltip} rad/s
+Petal/Attribute/Heal=<c val="#ff94c9">Heal:</c> {0:tooltip}
+Petal/Attribute/HealPerSecond=<c val="#ff94c9">Heal:</c> {0:tooltip}/s
+Petal/Attribute/HealPerc=<c val="#ff94c9">Heal:</c> {0:perc}%
+Petal/Attribute/Poison=<c val="#ce76db">Poison:</c> {0:tooltip} ({1:tooltip}/s)
+Petal/Attribute/PoisonPerSecond=<c val="#ce76db">Poison:</c> {0:tooltip}/s
+Petal/Attribute/PoisonResistance=<c val="#ce76db">Poison Resistance:</c> {0:tooltip}/s
+Petal/Attribute/FlowerHealth=<c val="#66FF66">Flower Health:</c> {0:tooltip}
+Petal/Attribute/FlowerHealthPerc=<c val="#66FF66">Flower Health:</c> +{0:perc}%
+Petal/Attribute/Duration=<c val="#6666FF">Duration:</c> {0:tooltipTime}
+Petal/Attribute/Contents={#Petal/Attribute/Contents{0:1orN}}
+Petal/Attribute/Contents1=<c val="#d2eb34">Contents:</c> {#Mobs/{1:base}/Name} ({#Rarities/{1:rarity}/NameColored})
+Petal/Attribute/ContentsN=<c val="#d2eb34">Contents:</c> {0}x {#Mobs/{1:base}/Name} ({#Rarities/{1:rarity}/NameColored})
+Petal/Attribute/ExtraVision=<c val="#d2eb34">Extra Vision:</c> {0:perc}%
+Petal/Attribute/Radius=<c val="#d2eb34">Radius:</c> {0:tooltip}
+Petal/Attribute/MaxMobRarity=<c val="#d2eb34">Max Mob Rarity:</c> {#Rarities/{0}/NameColored}
+Petal/Attribute/DamageReflection=<c val="#999999">Damage Reflection:</c> {0:perc}% (vs {#Rarities/{2}/NameColored} mobs), {1:perc}% (vs flowers)
+Petal/Attribute/PickUpRange=<c val="#d2eb34">Pickup Range:</c> +{0:tooltip}
+Petal/Attribute/Lightning=<c val="#36ffe7">Lightning:</c> {0:tooltip}
+Petal/Attribute/Bounces=<c val="#d2eb34">Bounces:</c> {0:tooltip}
+Petal/Attribute/Knockback=<c val="#d2eb34">Knockback:</c> {0:tooltip}
+Petal/Attribute/ExtraDamage=<c val="#FF6666">Extra Damage:</c> {0:tooltip}
+Petal/Attribute/Shield=<c val="#d2eb34">Shield:</c> {0:tooltip}
+Petal/Attribute/BodyDamage=<c val="#FF6666">Body Damage:</c> {0:tooltip}
+Petal/Attribute/Period=<c val="#d2eb34">Period:</c> {0:tooltipTime}
+Petal/Attribute/FlowerRadius=<c val="#d2eb34">Flower Radius:</c> +{0:tooltip}
+Petal/Attribute/DamageHealed=<c val="#ff94c9">Damage Healed:</c> {0:perc}%
+Petal/Attribute/AttackRange=<c val="#d2eb34">Attack Range:</c> +{0:tooltip}
+Petal/Attribute/Spawn={#Petal/Attribute/Spawn{0:1orN}}
+Petal/Attribute/Spawn1=<c val="#d2eb34">Spawn:</c> {#Mobs/{1:base}/Name} ({#Rarities/{1:rarity}/NameColored})
+Petal/Attribute/SpawnN=<c val="#d2eb34">Spawn:</c> {0}x {#Mobs/{1:base}/Name} ({#Rarities/{1:rarity}/NameColored})
+Petal/Attribute/Luck=<c val="#d2eb34">Luck:</c> +{0:tooltip}
+Petal/Attribute/MovementSpeed=<c val="#d2eb34">Movement Speed:</c> +{0:perc}%
+Petal/Attribute/HealBonus=<c val="#ff94c9">Heal Bonus:</c> +{0:perc}%
+Petal/Attribute/MobAggroRange=<c val="#d2eb34">Mob Aggro Range:</c> -{0:perc}%
+Petal/Attribute/FlowerKnockback=<c val="#d2eb34">Flower Knockback:</c> +{0:tooltip}
+Petal/Attribute/SelfDamage=<c val="#FF6666">Self Damage:</c> {0:tooltip}
+Petal/Attribute/ArmorDebuff=<c val="#666666">Armor Debuff:</c> {0:tooltip}
+Petal/Attribute/FlowerArmor=<c val="#666666">Flower Armor:</c> {0:tooltip}
+Petal/Attribute/FlowerEvasion=<c val="#d2eb34">Flower Evasion:</c> +{0:perc}%
+Petal/Attribute/Charges=<c val="#d2eb34">Charges:</c> {0:tooltip}
+Petal/Attribute/OverhealConversion=<c val="#d2eb34">Overheal Conversion:</c> +{0:perc}%
+Petal/Attribute/AffectedByMagnets=<c val="#d2eb34">Affected by Magnets</c>
+Petal/Attribute/CanFindSquares=<c val="#d2eb34">Can find mobs that do not belong</c>
+Petal/Attribute/CollisionDamageResistance=<c val="#d2eb34">Collision Damage Resistance:</c> +{0:perc}%
+Petal/Attribute/Evasion=<c val="#d2eb34">Evasion:</c> {0:perc}%
+Petal/Attribute/Health4=<c val="#66FF66">Health:</c> {0:tooltip} / {1:tooltip} / {2:tooltip} / {3:tooltip}
+Petal/Attribute/Damage4=<c val="#FF6666">Damage:</c> {0:tooltip} / {1:tooltip} / {2:tooltip} / {3:tooltip}
+Petal/Attribute/ExtraPoison=<c val="#ce76db">Extra Poison:</c> {0:tooltip}s
+Petal/Attribute/Interval=<c val="#d2eb34">Interval:</c> {0:tooltipTime}
+Petal/Attribute/CorruptsFlowersAround=<c val="#d2eb34">Corrupts flowers around you.</c>
+Petal/Attribute/CannotBeUnequipped=<c val="#d2eb34">Cannot be unequipped.</c>
+Petal/Attribute/PetalLostOnDeath=<c val="#FF3333">Petal is lost on death.</c>
+Petal/Attribute/CannotBeUnequippedWhileAlive=<c val="#d2eb34">Cannot be unequipped while alive.</c>
+Petal/Attribute/Mana=<c val="#42e3f5">Mana:</c> {0:tooltip}
+Petal/Attribute/ManaPerSecond=<c val="#42e3f5">Mana:</c> {0:tooltip}/s
+Petal/Attribute/BaseMaxMana=<c val="#42e3f5">Base Max Mana:</c> {0:tooltip}
+Petal/Attribute/MaxMana=<c val="#42e3f5">Max Mana:</c> +{0:tooltip}
+Petal/Attribute/AllowsFindingMagicPetals=<c val="#42e3f5">Allows finding magic petals.</c>
+Petal/Attribute/DamageAbsorptionPerMana=<c val="#d2eb34">Damage Absorption:</c> {0:tooltip}/<c val="#42e3f5">mana</c>
+Petal/Attribute/LightningPerMana=<c val="#36ffe7">Lightning:</c> {0:tooltip}/<c val="#42e3f5">mana</c>
+Petal/Attribute/SpawnManaCost=<c val="#d2eb34">Spawn Cost:</c> {0:tooltip} <c val="#42e3f5">mana</c>
+Petal/Attribute/MaintenanceManaCost=<c val="#d2eb34">Maintenance Cost:</c> {0:tooltip} <c val="#42e3f5">mana</c>/s

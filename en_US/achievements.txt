@@ -213,7 +213,7 @@ Achievements/67/Name=One-hit KO
 Achievements/67/Description=Destroy {#Rarities/{0}/Article} {#Rarities/{0}/Name} mob in one hit.
 
 Achievements/68/Name=Getting tanned
-Achievements/68/Description=Survive {0} minutes in Hel.
+Achievements/68/Description=Survive {0:time} in Hel.
 
 Achievements/69/Name=Skill issue
 Achievements/69/Description=Find the dead dev flower.
@@ -222,7 +222,7 @@ Achievements/70/Name=Termites...?
 Achievements/70/Description=Spawn a friendly Termite.
 
 Achievements/71/Name=Pacifist
-Achievements/71/Description=Spend {0} minutes admiring nature without destroying anything.
+Achievements/71/Description=Spend {0:time} admiring nature without destroying anything.
 
 Achievements/72/Name=Be gone
 Achievements/72/Description=Send a flower to Hel.
@@ -261,7 +261,7 @@ Achievements/83/Name=Bad
 Achievements/83/Description=Die {0} times.
 
 Achievements/84/Name=Serial killer
-Achievements/84/Description=Destroy {0} mobs within {1} seconds of each other.
+Achievements/84/Description=Destroy {0} mobs within {1:time} of each other.
 
 Achievements/85/Name=Unkillable
 Achievements/85/Description=Destroy {0} {#Rarities/{1}/Name}+ mobs without dying.
@@ -288,19 +288,19 @@ Achievements/92/Name=You're the dummy
 Achievements/92/Description=Die to a {#Mobs/{0}/Name}.
 
 Achievements/93/Name=Genocide
-Achievements/93/Description=Destroy {0} mobs within {1} second.
+Achievements/93/Description=Destroy {0} mobs within {1:time}.
 
 Achievements/94/Name=Rolling in dough
-Achievements/94/Description=Acquire {0} drops within {1} second.
+Achievements/94/Description=Acquire {0} drops within {1:time}.
 
 Achievements/95/Name=Shiny Hunter
-Achievements/95/Description=Destroy {0} shiny Ladybugs within {1} second.
+Achievements/95/Description=Destroy {0} shiny Ladybugs within {1:time}.
 
 Achievements/96/Name=Super Hunter
 Achievements/96/Description=Destroy {0} {#Rarities/{1}/Name} mobs.
 
 Achievements/97/Name=Sacrifice
-Achievements/97/Description=Die within {0} second of reviving someone.
+Achievements/97/Description=Die within {0:time} of reviving someone.
 
 Achievements/98/Name=Useless
 Achievements/98/Description=Get kill credit for a mob without dealing any damage to it.
@@ -339,19 +339,19 @@ Achievements/109/Name=Collector
 Achievements/109/Description=Collect {0} different types of petals without dying.
 
 Achievements/110/Name=Touch grass
-Achievements/110/Description=Don't play the game for {0}h.
+Achievements/110/Description=Don't play the game for {0:time}.
 
 Achievements/111/Name=Racecar
-Achievements/111/Description=Visit Garden, Desert, Jungle, Ocean, then get back to Garden in less than {0} minutes.
+Achievements/111/Description=Visit Garden, Desert, Jungle, Ocean, then get back to Garden in less than {0:time}.
 
 Achievements/112/Name=Racecar
-Achievements/112/Description=Visit Garden, Desert, Jungle, Ocean, then get back to Garden in less than {0} minutes.
+Achievements/112/Description=Visit Garden, Desert, Jungle, Ocean, then get back to Garden in less than {0:time}.
 
 Achievements/113/Name=Racecar
-Achievements/113/Description=Visit Garden, Desert, Jungle, Ocean, then get back to Garden in less than {0} minutes.
+Achievements/113/Description=Visit Garden, Desert, Jungle, Ocean, then get back to Garden in less than {0:time}.
 
 Achievements/114/Name=Racecar
-Achievements/114/Description=Visit Garden, Desert, Jungle, Ocean, then get back to Garden in less than {0} minute.
+Achievements/114/Description=Visit Garden, Desert, Jungle, Ocean, then get back to Garden in less than {0:time}.
 
 Achievements/115/Name=Biologist
 Achievements/115/Description=Destroy {0} different types of {#Rarities/{1}/Name}+ mobs without dying.
@@ -396,7 +396,7 @@ Achievements/128/Name=Revenge
 Achievements/128/Description=Destroy the mob that killed you.
 
 Achievements/129/Name=Revenge
-Achievements/129/Description=Destroy the mob that killed you within a second of your death.
+Achievements/129/Description=Destroy the mob that killed you within {0:time} of your death.
 
 Achievements/130/Name=Trade
 Achievements/130/Description=Acquire a {#Petals/{0:base}/Name} through trade.
