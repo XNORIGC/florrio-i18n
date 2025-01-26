@@ -26,6 +26,10 @@ Chat/GuestTooChatty=Sorry, guest accounts have limited chat privileges until the
 Chat/PlayerReported=Player reported.
 Chat/PlayerBlocked={0} has been blocked.
 
+Chat/Guild/PlayerJoined={0} has joined the guild.
+Chat/Guild/PlayerLeft={0} has left the guild.
+Chat/Guild/NewLeader={0} is the new guild leader!
+
 Chat/Command/Invalid=Invalid command, type /help to list all commands.
 Chat/Command/SpaceError=There can be no space after the /.
 Chat/Command/EmptyMessage=Message cannot be empty.
