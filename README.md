@@ -34,7 +34,10 @@ Run `florrio.utils.uploadCustomLang();` in the JS console. That will prompt you 
 ### Numbers
 - `{0}` Will print raw
 - `{0:tooltip}` Will be print in tooltip form (like 2.2k)
+- `{0:time}` Will be print as a time. Assumes number is in seconds. It'll transform into something like `X seconds` or `3 hours` for larger numbers.
 - `{0:timeLeft}` Will be print as a "time left" timestamp. Assumes number is in seconds. It'll transform into something like `in X seconds` or `in 3 hours` for larger numbers.
+- `{0:tooltipTime}` Will be print as a time. Assumes number is in seconds. It'll transform into something like `X seconds` or `3 hours` for larger numbers. It will also display decimals, such as 0.7 seconds, 5.4 seconds, etc.
+- `{0:1orN}` Will print either 1 or N, depending on the value of the number.
 
 ### String
 - `{0}` Will print in escaped form (< will turn into &amp;lt;, > will turn into &amp;gt;, etc.). This is mostly used when printing player names or other user text, to prevent them from using colors
@@ -49,6 +52,7 @@ Run `florrio.utils.uploadCustomLang();` in the JS console. That will prompt you 
 
 ### Mob Rarity
 - `{0}` Will print the rarity (common/unusual/rare/etc)
+- `{0:color}` Will print the rarity color (#7EEF6D, #0xFFE65D, etc)
 
 ### Petal Type
 - `{0:base}` Will print the internal id (rock/cactus/magic_stinger)
@@ -59,3 +63,4 @@ Run `florrio.utils.uploadCustomLang();` in the JS console. That will prompt you 
 
 ### Petal Rarity
 - `{0}` Will print the rarity (common/unusual/rare/etc)
+- `{0:color}` Will print the rarity color (#7EEF6D, #0xFFE65D, etc)
