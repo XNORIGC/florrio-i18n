@@ -36,7 +36,7 @@ Chat/GuildChannelDisabled=You have guild chat disabled.
 Chat/GuestTooChatty=Sorry, guest accounts have limited chat privileges until they're level {0}.
 Chat/PlayerReported=Player reported.
 Chat/PlayerBlocked={0} has been blocked.
-Chat/ServerClosing=This server is scheduled to close {0/timeLeft}.
+Chat/ServerClosing=This server is scheduled to close {0:timeLeft}.
 Chat/ServerClosed=Server is closed, time to leave.
 Chat/ServerNoLongerClosing=Server is no longer scheduled to close.
 
