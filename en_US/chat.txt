@@ -14,8 +14,12 @@ Chat/MobSpawnedSomewhere={#Mobs/{0:base}/Spawn#Chat/MobSpawnedSomewhere/Text}
 Chat/MobSpawnedHere/Text={#Mobs/AnnouncementPrefix:0} has spawned!
 Chat/MobSpawnedSomewhere/Text={#Mobs/AnnouncementPrefix:0} has spawned somewhere!
 
-Chat/MobDefeatedUnnamed={#Mobs/AnnouncementPrefix:0} has been defeated!
-Chat/MobDefeatedNamed={#Mobs/AnnouncementPrefix:0} has been defeated by {1}!
+Chat/MobDefeated={#Chat/MobDefeated/{1}}
+Chat/MobDefeated/0={#Mobs/AnnouncementPrefix:0} has been defeated!
+Chat/MobDefeated/1={#Mobs/AnnouncementPrefix:0} has been defeated by {2}!
+Chat/MobDefeated/2={#Mobs/AnnouncementPrefix:0} has been defeated by {2} and {3}!
+Chat/MobDefeated/3={#Mobs/AnnouncementPrefix:0} has been defeated by {2}, {3} and {4}!
+Chat/MobDefeated/4={#Mobs/AnnouncementPrefix:0} has been defeated by {2}, {3}, {4} and {5}!
 
 Chat/Revived=You were revived by {0}.
 Chat/Marked=You were marked by {0}.
