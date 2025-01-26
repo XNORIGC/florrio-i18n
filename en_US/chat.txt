@@ -8,8 +8,11 @@ Chat/PetalCraftedNamed/unique={#Petals/AnnouncementPrefix:0} has been forged by 
 Chat/PetalCraftedUnnamed/not-unique={#Petals/AnnouncementPrefix:0} has been crafted!
 Chat/PetalCraftedNamed/not-unique={#Petals/AnnouncementPrefix:0} has been crafted by {1}!
 
-Chat/MobSpawnedHere={#Mobs/AnnouncementPrefix:0} has spawned!
-Chat/MobSpawnedSomewhere={#Mobs/AnnouncementPrefix:0} has spawned somewhere!
+Chat/MobSpawnedHere={#Mobs/{0:base}/Spawn#Chat/MobSpawnedHere/Text}
+Chat/MobSpawnedSomewhere={#Mobs/{0:base}/Spawn#Chat/MobSpawnedSomewhere/Text}
+
+Chat/MobSpawnedHere/Text={#Mobs/AnnouncementPrefix:0} has spawned!
+Chat/MobSpawnedSomewhere/Text={#Mobs/AnnouncementPrefix:0} has spawned somewhere!
 
 Chat/MobDefeatedUnnamed={#Mobs/AnnouncementPrefix:0} has been defeated!
 Chat/MobDefeatedNamed={#Mobs/AnnouncementPrefix:0} has been defeated by {1}!
