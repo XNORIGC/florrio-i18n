@@ -40,6 +40,12 @@ Chat/ServerClosing=This server is scheduled to close {0/timeLeft}.
 Chat/ServerClosed=Server is closed, time to leave.
 Chat/ServerNoLongerClosing=Server is no longer scheduled to close.
 
+Chat/Channel/Local=Local
+Chat/Channel/Squad=Squad
+Chat/Channel/Guild=Guild
+Chat/Channel/Map=Map
+Chat/Channel/Global=Global
+
 Chat/Guild/PlayerJoined={0} has joined the guild.
 Chat/Guild/PlayerLeft={0} has left the guild.
 Chat/Guild/NewLeader={0} is the new guild leader!
