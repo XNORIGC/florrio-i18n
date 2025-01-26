@@ -25,6 +25,10 @@ Petals/rose/Gender=Female
 UI/Petal/Rarity={#Rarities/{0:rarity}/Name/{#Petals/{0:base}/Gender}}
 ```
 
+## Testing changes (web version)
+
+Run `florrio.utils.uploadCustomLang();` in the JS console. That will prompt you to upload .txt files. Select ALL txt files for the language you wanna test. The page will refresh with the new language loaded. If you leave the page again, it'll go back to your previously selected language in-game.
+
 ## Argument types
 
 ### Numbers
