@@ -45,6 +45,18 @@ UI/Login/SupportPIN=Support PIN: {0}
 UI/Login/SupportPINHidden=Support PIN: (click to show)
 UI/Login/SupportPINInstruction1=Save this in case you lose access to your account
 UI/Login/SupportPINInstruction2=Do not share your support PIN with anyone
+UI/Login/Reminder=Link your account to save your progress
+
+UI/Premium/MustLink1=To make any purchases, you must first
+UI/Premium/MustLink2=link your account to Discord or Apple.
+
+UI/Achievement/Reward=Reward
+UI/Achievement/RewardTP={0} TP
+UI/Achievement/Done=Done
+UI/Achievement/Track=Track
+UI/Achievement/TrackAutomatically=Track automatically
+UI/Achievement/Hidden=???
+UI/Achievement/TotalProgress={0}/{1} completed
 
 UI/Petal/Name={#Petals/{0:base}/Name}
 UI/Petal/FullName={#Petals/{0:base}/FullName}
