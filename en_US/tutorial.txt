@@ -3,5 +3,5 @@ Tutorial/End=<s val="1.5">Tutorial</s><n/><n/>That's it! Remember to use the inv
 Tutorial/MustBeAlive=You must be alive to proceed in the tutorial.
 Tutorial/MustBeInGame=You must be in-game for this part of the tutorial, just click the big green READY button.
 Tutorial/MustLeaveGame=To proceed, abandon this game by clicking the abandon button on the top left.
-Tutorial/Next=Next
-Tutorial/Done=Done
+Tutorial/Next=继续
+Tutorial/Done=完成

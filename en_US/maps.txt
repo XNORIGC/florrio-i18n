@@ -1,23 +1,23 @@
-Maps/ant_hell/Name=Ant Hell
+Maps/ant_hell/Name=蚂蚁地狱
 
-Maps/ant_hole1/Name=Termite Mound
-Maps/ant_hole2/Name=Termite Mound
-Maps/ant_hole3/Name=Termite Mound
-Maps/ant_hole4/Name=Termite Mound
-Maps/ant_hole5/Name=Termite Mound
+Maps/ant_hole1/Name=白蚁丘
+Maps/ant_hole2/Name=白蚁丘
+Maps/ant_hole3/Name=白蚁丘
+Maps/ant_hole4/Name=白蚁丘
+Maps/ant_hole5/Name=白蚁丘
 
-Maps/battle_ground/Name=Battle Ground
+Maps/battle_ground/Name=战地
 
-Maps/desert/Name=Desert
+Maps/desert/Name=沙漠
 
-Maps/garden/Name=Garden
+Maps/garden/Name=花园
 
-Maps/hel/Name=Hel
+Maps/hel/Name=冥界
 
-Maps/jungle/Name=Jungle
+Maps/jungle/Name=丛林
 
-Maps/ocean/Name=Ocean
+Maps/ocean/Name=海洋
 
-Maps/sewers/Name=Sewers
+Maps/sewers/Name=下水道
 
-Maps/worm/Name=Worm
+Maps/worm/Name=蠕虫

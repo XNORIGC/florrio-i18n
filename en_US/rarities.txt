@@ -1,44 +1,44 @@
-Rarities/common/Name=Common
-Rarities/common/ArticleUpper=A
-Rarities/common/Article=a
+Rarities/common/Name=普通
+Rarities/common/ArticleUpper=一个
+Rarities/common/Article=一个
 Rarities/common/NameColored=<c val="#7EEF6D">{#Rarities/common/Name}</c>
 
-Rarities/unusual/Name=Unusual
-Rarities/unusual/ArticleUpper=An
-Rarities/unusual/Article=an
+Rarities/unusual/Name=罕见
+Rarities/unusual/ArticleUpper=一个
+Rarities/unusual/Article=一个
 Rarities/unusual/NameColored=<c val="#FFE65D">{#Rarities/unusual/Name}</c>
 
-Rarities/rare/Name=Rare
-Rarities/rare/ArticleUpper=A
-Rarities/rare/Article=a
+Rarities/rare/Name=稀有
+Rarities/rare/ArticleUpper=一个
+Rarities/rare/Article=一个
 Rarities/rare/NameColored=<c val="#4d52e3">{#Rarities/rare/Name}</c>
 
-Rarities/epic/Name=Epic
-Rarities/epic/ArticleUpper=An
-Rarities/epic/Article=an
+Rarities/epic/Name=史诗
+Rarities/epic/ArticleUpper=一个
+Rarities/epic/Article=一个
 Rarities/epic/NameColored=<c val="#861FDE">{#Rarities/epic/Name}</c>
 
-Rarities/legendary/Name=Legendary
-Rarities/legendary/ArticleUpper=A
-Rarities/legendary/Article=a
+Rarities/legendary/Name=传奇
+Rarities/legendary/ArticleUpper=一个
+Rarities/legendary/Article=一个
 Rarities/legendary/NameColored=<c val="#DE1F1F">{#Rarities/legendary/Name}</c>
 
-Rarities/mythic/Name=Mythic
-Rarities/mythic/ArticleUpper=A
-Rarities/mythic/Article=a
+Rarities/mythic/Name=神话
+Rarities/mythic/ArticleUpper=一个
+Rarities/mythic/Article=一个
 Rarities/mythic/NameColored=<c val="#1fdbde">{#Rarities/mythic/Name}</c>
 
-Rarities/ultra/Name=Ultra
-Rarities/ultra/ArticleUpper=An
-Rarities/ultra/Article=an
+Rarities/ultra/Name=究极
+Rarities/ultra/ArticleUpper=一个
+Rarities/ultra/Article=一个
 Rarities/ultra/NameColored=<c val="#ff2b75">{#Rarities/ultra/Name}</c>
 
-Rarities/super/Name=Super
-Rarities/super/ArticleUpper=A
-Rarities/super/Article=a
+Rarities/super/Name=超级
+Rarities/super/ArticleUpper=一个
+Rarities/super/Article=一个
 Rarities/super/NameColored=<c val="#2bffa3">{#Rarities/super/Name}</c>
 
-Rarities/unique/Name=Unique
-Rarities/unique/ArticleUpper=A
-Rarities/unique/Article=a
+Rarities/unique/Name=唯一
+Rarities/unique/ArticleUpper=一个
+Rarities/unique/Article=一个
 Rarities/unique/NameColored=<c val="#555555">{#Rarities/unique/Name}</c>

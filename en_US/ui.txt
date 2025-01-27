@@ -1,48 +1,48 @@
-UI/Language/Name=English (US)
+UI/Language/Name=中文（简体）
 
-UI/Time/1day=1 day
-UI/Time/Ndays={0} days
-UI/Time/Nhours={0} hours
-UI/Time/1minute=1 minute
-UI/Time/Nminutes={0} minutes
-UI/Time/1second=1 second
-UI/Time/Nseconds={0} seconds
-UI/Time/Now=immediately
+UI/Time/1day=1天
+UI/Time/Ndays={0}天
+UI/Time/Nhours={0}小时
+UI/Time/1minute=1分钟
+UI/Time/Nminutes={0}分钟
+UI/Time/1second=1秒
+UI/Time/Nseconds={0}秒
+UI/Time/Now=立即
 
-UI/TooltipTime/1day=1 day
-UI/TooltipTime/Ndays={0:tooltip} days
-UI/TooltipTime/Nhours={0:tooltip} hours
-UI/TooltipTime/1minute=1 minute
-UI/TooltipTime/Nminutes={0:tooltip} minutes
-UI/TooltipTime/1second=1 second
-UI/TooltipTime/Nseconds={0:tooltip} seconds
-UI/TooltipTime/Now=immediately
+UI/TooltipTime/1day=1天
+UI/TooltipTime/Ndays={0:tooltip}天
+UI/TooltipTime/Nhours={0:tooltip}小时
+UI/TooltipTime/1minute=1分钟
+UI/TooltipTime/Nminutes={0:tooltip}分钟
+UI/TooltipTime/1second=1秒
+UI/TooltipTime/Nseconds={0:tooltip}秒
+UI/TooltipTime/Now=立即
 
-UI/TimeLeft/1day=in 1 day
-UI/TimeLeft/Ndays=in {0} days
-UI/TimeLeft/Nhours=in {0} hours
-UI/TimeLeft/1minute=in 1 minute
-UI/TimeLeft/Nminutes=in {0} minutes
-UI/TimeLeft/1second=in 1 second
-UI/TimeLeft/Nseconds=in {0} seconds
-UI/TimeLeft/Now=any second now
+UI/TimeLeft/1day=在1天后
+UI/TimeLeft/Ndays=在{0}天后
+UI/TimeLeft/Nhours=在{0}小时后
+UI/TimeLeft/1minute=在1分钟后
+UI/TimeLeft/Nminutes=在{0}分钟后
+UI/TimeLeft/1second=在1秒后
+UI/TimeLeft/Nseconds=在{0}秒后
+UI/TimeLeft/Now=在现在
 
-UI/Title/Loading=Loading...
-UI/Title/Connecting=Connecting...
-UI/Title/LoggingIn=Logging in...
+UI/Title/Loading=加载中……
+UI/Title/Connecting=连接中……
+UI/Title/LoggingIn=登入中……
 
-UI/Login/PlayAsGuest=Play as guest
-UI/Login/SignInApple=Sign in with Apple
-UI/Login/SignInDiscord=Sign in with Discord
-UI/Login/Logout=Logout
-UI/Login/AccountID=Account ID:
-UI/Login/Connecting=(connecting)
-UI/Login/GuestName=Guest
+UI/Login/PlayAsGuest=以游客身份游玩
+UI/Login/SignInApple=使用Apple登录
+UI/Login/SignInDiscord=使用Discord登录
+UI/Login/Logout=登出
+UI/Login/AccountID=账户ID：
+UI/Login/Connecting=（连接中）
+UI/Login/GuestName=游客
 UI/Login/GuestInfo=If you already have a guest account in this device,<n/>signing in will link that account and keep your progress.
 UI/Login/LinkInfo=You can link your account to<n/>keep your progress across devices.
-UI/Login/Linked=Linked
-UI/Login/SupportPIN=Support PIN: {0}
-UI/Login/SupportPINHidden=Support PIN: (click to show)
+UI/Login/Linked=已关联
+UI/Login/SupportPIN=支持码：{0}
+UI/Login/SupportPINHidden=支持码：（点击显示）
 UI/Login/SupportPINInstruction1=Save this in case you lose access to your account
 UI/Login/SupportPINInstruction2=Do not share your support PIN with anyone
 UI/Login/Reminder=Link your account to save your progress
@@ -50,13 +50,13 @@ UI/Login/Reminder=Link your account to save your progress
 UI/Premium/MustLink1=To make any purchases, you must first
 UI/Premium/MustLink2=link your account to Discord or Apple.
 
-UI/Achievement/Reward=Reward
-UI/Achievement/RewardTP={0} TP
-UI/Achievement/Done=Done
-UI/Achievement/Track=Track
-UI/Achievement/TrackAutomatically=Track automatically
-UI/Achievement/Hidden=???
-UI/Achievement/TotalProgress={0}/{1} completed
+UI/Achievement/Reward=奖励
+UI/Achievement/RewardTP={0}天赋点
+UI/Achievement/Done=已完成
+UI/Achievement/Track=跟踪
+UI/Achievement/TrackAutomatically=自动跟踪
+UI/Achievement/Hidden=？？？
+UI/Achievement/TotalProgress=已完成{0}/{1}
 
 UI/Petal/Name={#Petals/{0:base}/Name}
 UI/Petal/FullName={#Petals/{0:base}/FullName}
@@ -71,57 +71,57 @@ UI/Map/Name={#Maps/{0}/Name}
 
 UI/Talent/Rarity={#Rarities/{0}/Name}
 
-UI/Craft/Title=Craft
-UI/Craft/Button=Craft
-UI/Craft/Chance={0:perc}% success chance
-UI/Craft/UnknownChance=?% success chance
+UI/Craft/Title=合成
+UI/Craft/Button=合成
+UI/Craft/Chance=成功率{0:perc}%
+UI/Craft/UnknownChance=成功率?%
 UI/Craft/CombineInstruction=Combine {0} of the same petal to craft an upgrade
 UI/Craft/FailureInstruction=Failure will destroy {0}-{1} petals
 
-UI/Absorb/Title=Absorb
-UI/Absorb/Button=Absorb
+UI/Absorb/Title=吸收
+UI/Absorb/Button=吸收
 UI/Absorb/Instruction=Absorb petals to gain XP<n/><c val="#FF6666">WARNING: The petals will be destroyed in the process</c>
 
-UI/CoinCraft/Title=Trade
-UI/CoinCraft/Button=Trade
+UI/CoinCraft/Title=交易
+UI/CoinCraft/Button=交易
 UI/CoinCraft/Instruction=You can trade a petal for a coin of the same rarity
 UI/CoinCraft/Delay=You'll be able to trade again {0:timeLeft}
 
-UI/OracleCraft/Title=Oracle
-UI/OracleCraft/Button=Craft
+UI/OracleCraft/Title=神谕
+UI/OracleCraft/Button=合成
 UI/OracleCraft/Instruction=The Oracle will guarantee a craft... for the right price.
 UI/OracleCraft/Delay=You'll be able to craft again {0:timeLeft}
 
-UI/Plinko/Title=Plinko
-UI/Plinko/Auto=Auto
+UI/Plinko/Title=弹珠
+UI/Plinko/Auto=自动
 
-UI/UniqueCraft/Title=Forge
-UI/UniqueCraft/Button=Forge
+UI/UniqueCraft/Title=锻造
+UI/UniqueCraft/Button=锻造
 UI/UniqueCraft/Instruction=Unique petals will last until another player forges the same petal.<n/>When that happens, you will receive your Super petals back.<n/>The cost increases each time that petal is forged.
 UI/UniqueCraft/NoSupers=You do not have any Super petals to attempt this.
 
-UI/Death/Poison=Poison
+UI/Death/Poison=剧毒
 
-UI/Attribute/Health=Health
+UI/Attribute/Health=生命值
 UI/Attribute/HealthColored=<c val="#66FF66">{#UI/Attribute/Health}</c>
 
-UI/Attribute/FlowerHealth=Flower Health
+UI/Attribute/FlowerHealth=花朵生命值
 UI/Attribute/FlowerHealthColored=<c val="#66FF66">{#UI/Attribute/FlowerHealth}</c>
 
-UI/Attribute/BodyDamage=Body Damage
+UI/Attribute/BodyDamage=碰撞伤害
 UI/Attribute/BodyDamageColored=<c val="#FF6666">{#UI/Attribute/BodyDamage}</c>
 
-UI/Attribute/Poison=Poison
+UI/Attribute/Poison=剧毒
 UI/Attribute/PoisonColored=<c val="#ce76db">{#UI/Attribute/Poison}</c>
 
-UI/Attribute/Luck=Luck
+UI/Attribute/Luck=运气
 UI/Attribute/LuckColored=<c val="#d2eb34">{#UI/Attribute/Luck}</c>
 
-UI/Attribute/Healing=Healing
+UI/Attribute/Healing=治疗
 UI/Attribute/HealingColored=<c val="#ff94c9">{#UI/Attribute/Healing}</c>
 
-UI/Attribute/RotationSpeed=Rotation Speed
+UI/Attribute/RotationSpeed=旋转速度
 UI/Attribute/RotationSpeedColored=<c val="#d2eb34">{#UI/Attribute/RotationSpeed}</c>
 
-UI/Attribute/AttackRange=Attack Range
+UI/Attribute/AttackRange=攻击范围
 UI/Attribute/AttackRangeColored=<c val="#d2eb34">{#UI/Attribute/AttackRange}</c>

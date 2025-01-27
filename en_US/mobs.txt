@@ -1,223 +1,223 @@
-Mobs/rock/Name=Rock
+Mobs/rock/Name=岩石
 Mobs/rock/Description=A rock. It doesn't do much.
 Mobs/rock/Spawn=Something mountain-like appears in the distance...
 
-Mobs/cactus/Name=Cactus
+Mobs/cactus/Name=仙人掌
 Mobs/cactus/Description=Avoid touching it, it hurts.
 Mobs/cactus/Spawn=A tower of thorns rises from the sands...
 
-Mobs/ladybug/Name=Ladybug
+Mobs/ladybug/Name=瓢虫
 Mobs/ladybug/Description=Cute and harmless.
 
-Mobs/bee/Name=Bee
+Mobs/bee/Name=蜜蜂
 Mobs/bee/Description=It stings. Don't touch it.
 
-Mobs/ant_baby/Name=Baby Ant
+Mobs/ant_baby/Name=幼蚁
 Mobs/ant_baby/Description=Weak and defenseless, but big dreams.
 
-Mobs/ant_worker/Name=Worker Ant
+Mobs/ant_worker/Name=工蚁
 Mobs/ant_worker/Description=It's a bit temperamental, probably from working all the time.
 
-Mobs/ant_soldier/Name=Soldier Ant
+Mobs/ant_soldier/Name=兵蚁
 Mobs/ant_soldier/Description=It's got wings and it's ready to use them.
 
-Mobs/ant_queen/Name=Queen Ant
+Mobs/ant_queen/Name=蚁后
 Mobs/ant_queen/Description=You must have done something really bad if she's chasing you.
 
-Mobs/ant_hole/Name=Ant Hole
+Mobs/ant_hole/Name=蚁穴
 Mobs/ant_hole/Description=Ants go in, and come out. Can't explain that.
 
-Mobs/beetle/Name=Beetle
+Mobs/beetle/Name=甲虫
 Mobs/beetle/Description=It's hungry and flowers are its favorite meal.
 
-Mobs/hornet/Name=Hornet
+Mobs/hornet/Name=黄蜂
 Mobs/hornet/Description=These aren't quite as nice as the little bees.
 Mobs/hornet/Spawn=A big yellow spot shows up in the distance...
 
-Mobs/centipede/Name=Centipede
+Mobs/centipede/Name=蜈蚣
 Mobs/centipede/Description=It's just there doing its thing.
 
-Mobs/centipede_body/Name=Centipede
+Mobs/centipede_body/Name=蜈蚣
 Mobs/centipede_body/Description=It's just there doing its thing.
 
-Mobs/centipede_evil/Name=Centipede
+Mobs/centipede_evil/Name=蜈蚣
 Mobs/centipede_evil/Description=This one loves flowers.
 
-Mobs/centipede_evil_body/Name=Centipede
+Mobs/centipede_evil_body/Name=蜈蚣
 Mobs/centipede_evil_body/Description=This one loves flowers.
 
-Mobs/centipede_desert/Name=Centipede
+Mobs/centipede_desert/Name=蜈蚣
 Mobs/centipede_desert/Description=Gotta go fast.
 
-Mobs/centipede_desert_body/Name=Centipede
+Mobs/centipede_desert_body/Name=蜈蚣
 Mobs/centipede_desert_body/Description=Gotta go fast.
 
-Mobs/square/Name=Square
+Mobs/square/Name=正方形
 Mobs/square/Description=This shape... it looks familiar...
 
-Mobs/ladybug_dark/Name=Ladybug
+Mobs/ladybug_dark/Name=瓢虫
 Mobs/ladybug_dark/Description=Cute and harmless... if left unprovoked.
 
-Mobs/ladybug_shiny/Name=Ladybug
+Mobs/ladybug_shiny/Name=瓢虫
 Mobs/ladybug_shiny/Description=Shiny, cute and mostly harmless.
 
-Mobs/spider/Name=Spider
+Mobs/spider/Name=蜘蛛
 Mobs/spider/Description=Spooky.
 
-Mobs/scorpion/Name=Scorpion
+Mobs/scorpion/Name=蝎子
 Mobs/scorpion/Description=IT STINGS!
 
-Mobs/fire_ant_soldier/Name=Soldier Fire Ant
+Mobs/fire_ant_soldier/Name=火兵蚁
 Mobs/fire_ant_soldier/Description=This ant is on fireeeeeeeeeeeeee.
 
-Mobs/fire_ant_burrow/Name=Fire Ant Burrow
+Mobs/fire_ant_burrow/Name=火蚁穴
 Mobs/fire_ant_burrow/Description=What could be in here?
 
-Mobs/sandstorm/Name=Sandstorm
+Mobs/sandstorm/Name=沙尘暴
 Mobs/sandstorm/Description=Darude (1999)
 
-Mobs/bubble/Name=Bubble
+Mobs/bubble/Name=泡泡
 Mobs/bubble/Description=Pop
 
-Mobs/bumble_bee/Name=Bumble Bee
+Mobs/bumble_bee/Name=熊蜂
 Mobs/bumble_bee/Description=GOTTA RUN.
 
-Mobs/shell/Name=Shell
+Mobs/shell/Name=扇贝
 Mobs/shell/Description=Not an advertisement.
 
-Mobs/starfish/Name=Starfish
+Mobs/starfish/Name=海星
 Mobs/starfish/Description=His name is Patrick.
 
-Mobs/crab/Name=Crab
+Mobs/crab/Name=螃蟹
 Mobs/crab/Description=Mr. Crab.
 
-Mobs/jellyfish/Name=Jellyfish
+Mobs/jellyfish/Name=水母
 Mobs/jellyfish/Description=Makes the most delicious jam.
 Mobs/jellyfish/Spawn=You hear lightning strikes coming from a far distance...
 
-Mobs/digger/Name=Digger
+Mobs/digger/Name=挖掘者
 Mobs/digger/Description=Wrong game, bud.
 
-Mobs/sponge/Name=Sponge
+Mobs/sponge/Name=海绵
 Mobs/sponge/Description=Bob.
 
-Mobs/leech/Name=Leech
+Mobs/leech/Name=水蛭
 Mobs/leech/Description=Slurp slurp.
 
-Mobs/leech_body/Name=Leech
+Mobs/leech_body/Name=水蛭
 Mobs/leech_body/Description=Slurp slurp.
 
-Mobs/dandelion/Name=Dandelion
+Mobs/dandelion/Name=蒲公英
 Mobs/dandelion/Description=Puffy.
 
-Mobs/fire_ant_baby/Name=Baby Fire Ant
+Mobs/fire_ant_baby/Name=火幼蚁
 Mobs/fire_ant_baby/Description=This ant is on fireeeeeeeeeeeeee.
 
-Mobs/fire_ant_worker/Name=Worker Fire Ant
+Mobs/fire_ant_worker/Name=火工蚁
 Mobs/fire_ant_worker/Description=This ant is on fireeeeeeeeeeeeee.
 
-Mobs/fire_ant_queen/Name=Queen Fire Ant
+Mobs/fire_ant_queen/Name=火蚁后
 Mobs/fire_ant_queen/Description=This ant is on fireeeeeeeeeeeeee.
 
-Mobs/ant_egg/Name=Ant Egg
+Mobs/ant_egg/Name=蚁卵
 Mobs/ant_egg/Description=Not yet an ant but perhaps soon.
 
-Mobs/fire_ant_egg/Name=Fire Ant Egg
+Mobs/fire_ant_egg/Name=火蚁卵
 Mobs/fire_ant_egg/Description=This ant is not yet on fire.
 
-Mobs/fly/Name=Fly
+Mobs/fly/Name=苍蝇
 Mobs/fly/Description=Hzzzzzzzzzzzz.
 
-Mobs/leafbug/Name=Leafbug
+Mobs/leafbug/Name=叶虫
 Mobs/leafbug/Description=It's not a leaf, but it is a bug.
 
-Mobs/mantis/Name=Mantis
+Mobs/mantis/Name=螳螂
 Mobs/mantis/Description=You better pray you don't become dinner.
 
-Mobs/termite_baby/Name=Baby Termite
+Mobs/termite_baby/Name=白幼蚁
 Mobs/termite_baby/Description=Weak and defenseless, but big dreams.<n/>These creatures appear to be connected somehow.
 
-Mobs/termite_worker/Name=Worker Termite
+Mobs/termite_worker/Name=白工蚁
 Mobs/termite_worker/Description=It's a bit temperamental, probably from working all the time.<n/>These creatures appear to be connected somehow.
 
-Mobs/termite_soldier/Name=Soldier Termite
+Mobs/termite_soldier/Name=白兵蚁
 Mobs/termite_soldier/Description=It's got wings and it's ready to use them.<n/>These creatures appear to be connected somehow.
 
-Mobs/termite_overmind/Name=Termite Overmind
+Mobs/termite_overmind/Name=白蚁主宰者
 Mobs/termite_overmind/Description=The one who oversees all.
 
-Mobs/termite_mound/Name=Termite Mound
+Mobs/termite_mound/Name=白蚁丘
 Mobs/termite_mound/Description=Termites go in, and come out. Can't explain that.
 
-Mobs/termite_egg/Name=Termite Egg
+Mobs/termite_egg/Name=白蚁卵
 Mobs/termite_egg/Description=Not yet a termite but perhaps soon.
 
-Mobs/bush/Name=Bush
+Mobs/bush/Name=灌木
 Mobs/bush/Description=Don't misunderestimate me.
 
-Mobs/roach/Name=Roach
+Mobs/roach/Name=蟑螂
 Mobs/roach/Description=Gotta go FAST... until they get tired.
 
-Mobs/moth/Name=Moth
+Mobs/moth/Name=飞蛾
 Mobs/moth/Description=Easily scared, be nice.
 
-Mobs/firefly/Name=Firefly
+Mobs/firefly/Name=萤火虫
 Mobs/firefly/Description=Oooooh shiny.
 Mobs/firefly/Spawn=There's a bright light in the horizon...
 
-Mobs/beetle_hel/Name=Beetle
+Mobs/beetle_hel/Name=甲虫
 Mobs/beetle_hel/Description=Scourge that spawns in the other plane.
 Mobs/beetle_hel/Spawn=You sense ominous vibrations coming from a different realm...
 
-Mobs/wasp/Name=Wasp
+Mobs/wasp/Name=胡蜂
 Mobs/wasp/Description=They are ANGRY.
 
-Mobs/dummy/Name=Target Dummy
+Mobs/dummy/Name=训练假人
 Mobs/dummy/Description=How do you have this in your gallery?
 
-Mobs/spider_hel/Name=Spider
+Mobs/spider_hel/Name=蜘蛛
 Mobs/spider_hel/Description=Scourge that spawns in the other plane.
 Mobs/spider_hel/Spawn=You sense ominous vibrations coming from a different realm...
 
-Mobs/centipede_hel/Name=Centipede
+Mobs/centipede_hel/Name=蜈蚣
 Mobs/centipede_hel/Description=Scourge that spawns in the other plane.
 Mobs/centipede_hel/Spawn=You sense ominous vibrations coming from a different realm...
 
-Mobs/centipede_hel_body/Name=Centipede
+Mobs/centipede_hel_body/Name=蜈蚣
 Mobs/centipede_hel_body/Description=Scourge that spawns in the other plane.
 Mobs/centipede_hel_body/Spawn=You sense ominous vibrations coming from a different realm...
 
-Mobs/wasp_hel/Name=Wasp
+Mobs/wasp_hel/Name=胡蜂
 Mobs/wasp_hel/Description=Scourge that spawns in the other plane.
 Mobs/wasp_hel/Spawn=You sense ominous vibrations coming from a different realm...
 
-Mobs/trader/Name=Trader
+Mobs/trader/Name=商人
 
-Mobs/gambler/Name=Gambler
+Mobs/gambler/Name=赌徒
 Mobs/gambler/Description=This can happen to YOU.
 Mobs/gambler/Spawn=You hear someone whisper faintly... "just... one more game..."
 
-Mobs/oracle/Name=Oracle
+Mobs/oracle/Name=神谕者
 
-Mobs/firefly_magic/Name=Firefly
+Mobs/firefly_magic/Name=萤火虫
 Mobs/firefly_magic/Description=There's something magical about this one.
 
-Mobs/titan/Name=Titan
+Mobs/titan/Name=泰坦
 
-Mobs/beetle_nazar/Name=Beetle
+Mobs/beetle_nazar/Name=甲虫
 Mobs/beetle_nazar/Description=This one has a different pattern... what does that mean?
 
-Mobs/worm/Name=Worm
+Mobs/worm/Name=蠕虫
 Mobs/worm/Description=It's supposed to eat dirt but this one's eating flowers.
 
-Mobs/worm_guts/Name=Worm guts
+Mobs/worm_guts/Name=蠕虫内脏
 Mobs/worm_guts/Description=You're not supposed to see this text. I'm calling the police.
 
-Mobs/mecha_flower/Name=Mecha Flower
+Mobs/mecha_flower/Name=机械花
 Mobs/mecha_flower/Description=Someone has been making these mechanical flowers... What could this mean?
 
-Mobs/wasp_mecha/Name=Wasp
+Mobs/wasp_mecha/Name=胡蜂
 Mobs/wasp_mecha/Description=They're MECHA ANGRY.
 
-Mobs/spider_mecha/Name=Spider
+Mobs/spider_mecha/Name=蜘蛛
 Mobs/spider_mecha/Description=Mecha Spooky.

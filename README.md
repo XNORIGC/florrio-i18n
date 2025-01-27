@@ -1,11 +1,10 @@
-# Florr.io translation files
+# Florr.io 翻译文件
 
-`{0}` will get replaced by whatever argument number that is. Some (like mob types, petal types) accept a separate argument to know what to fetch in that argument, or how to format it. For example, a petal argument 0 can print its rarity (common/unusual/etc) using `{0:rarity}`, or its internal name with `{0:base}` (cactus, rose, magic_stinger etc.)
+`{0}` 将被替换为任何参数编号。有些（如生物类型、花瓣类型）接受单独的参数以了解在该参数中获取什么，或如何格式化它。例如，花瓣参数 0 可以使用 `{0:rarity}` 打印其稀有度（常见/不寻常/等），或使用 `{0:base}` 打印其内部名称（仙人掌、玫瑰、magic_stinger 等）
 
-`{#key}` will fetch another key in the translation files of the same language. It can be nested to accomplish more complex substitutions. You can to forward the arguments you want to that new key, for example: `{#key:0:2}`. will forward the 0th and 2nd arguments in that order (so 0th and 1st when processing that key). If you don't specify which arguments to forward, it'll forward all of them in order. You can also specify multiply keys. For example, in `{#key1#key2}` it'll first look for `key1`, and if it can't be found, it'll fetch `key2` instead. If no keys can be found, it'll be replaced by an empty string (it's not an error by itself).
+`{#key}` 将获取同一语言的翻译文件中的另一个键。它可以嵌套以完成更复杂的替换。您可以将所需的参数转发到该新键，例如：`{#key:0:2}`。将按该顺序转发第 0 个和第 2 个参数（因此在处理该键时为第 0 个和第 1 个）。如果您不指定要转发哪些参数，它将按顺序转发所有参数。您还可以指定多个键。例如，在 `{#key1#key2}` 中，它会首先查找 `key1`，如果找不到，则会取而代之的是 `key2`。如果找不到任何键，它将被替换为空字符串（这本身并不是错误）。
 
-
-An example of how rarities are done in English:
+以英语为例，说明如何表示稀有度：
 ```
 Rarities/rare/Name=Rare
 [...]
@@ -13,54 +12,54 @@ Rarities/rare/Name=Rare
 UI/Petal/Rarity={#Rarities/{0:rarity}/Name}
 ```
 
-In Portuguese, you'd need to take into account the gender:
+在葡萄牙语中，您需要考虑性别：
 
 ```
 Rarities/rare/Name/Female=Rara
 Rarities/rare/Name/Male=Raro
 [...]
-Petals/rose/Gender=Female
+Petals/rose/G​​ender=Female
 [...]
 
 UI/Petal/Rarity={#Rarities/{0:rarity}/Name/{#Petals/{0:base}/Gender}}
 ```
 
-## Testing changes (web version)
+## 测试更改（网页版）
 
-Run `florrio.utils.uploadCustomLang();` in the JS console. That will prompt you to upload .txt files. Select ALL txt files for the language you wanna test. The page will refresh with the new language loaded. If you leave the page again, it'll go back to your previously selected language.
+在 JS 控制台中运行 `florrio.utils.uploadCustomLang();`。这将提示您上传 .txt 文件。选择您要测试的语言的所有 txt 文件。页面将刷新并加载新语言。如果您再次离开该页面，它将返回到您之前选择的语言。
 
-## Argument types
+## 参数类型
 
-### Numbers
-- `{0}` Will print raw
-- `{0:tooltip}` Will be print in tooltip form (like 2.2k)
-- `{0:time}` Will be print as a time. Assumes number is in seconds. It'll transform into something like `X seconds` or `3 hours` for larger numbers.
-- `{0:timeLeft}` Will be print as a "time left" timestamp. Assumes number is in seconds. It'll transform into something like `in X seconds` or `in 3 hours` for larger numbers.
-- `{0:tooltipTime}` Will be print as a time. Assumes number is in seconds. It'll transform into something like `X seconds` or `3 hours` for larger numbers. It will also display decimals, such as 0.7 seconds, 5.4 seconds, etc.
-- `{0:1orN}` Will print either 1 or N, depending on the value of the number.
+### 数字
+- `{0}` 将打印原始内容
+- `{0:tooltip}` 将以工具提示形式打印（如 2.2k）
+- `{0:time}` 将打印为时间。假设数字以秒为单位。对于较大的数字，它将转换为类似 `X 秒` 或 `3 小时` 的内容。
+- `{0:timeLeft}` 将打印为“剩余时间”时间戳。假设数字以秒为单位。对于较大的数字，它将转换为类似 `X 秒` 或 `3 小时` 的内容。
+- `{0:tooltipTime}` 将打印为时间。假设数字以秒为单位。对于较大的数字，它将转换为类似 `X 秒` 或 `3 小时` 的内容。它还将显示小数，例如 0.7 秒、5.4 秒等。
+- `{0:1orN}` 将根据数字的值打印 1 或 N。
 
-### String
-- `{0}` Will print in escaped form (< will turn into &amp;lt;, > will turn into &amp;gt;, etc.). This is mostly used when printing player names or other user text, to prevent them from using colors
-- `{0:raw}` Will print raw
+### 字符串
+- `{0}` 将以转义形式打印（< 将变成 &amp;lt;，> 将变成 &amp;gt;，等等）。这主要用于打印玩家姓名或其他用户文本，以防止他们使用颜色
+- `{0:raw}` 将打印原始
 
-### Mob Type
-- `{0:base}` Will print the internal id (rock/cactus/wasp_hel)
-- `{0:rarity}` Will print the rarity (common/unusual/rare/etc)
+### 生物类型
+- `{0:base}` 将打印内部 ID（rock/cactus/wasp_hel）
+- `{0:rarity}` 将打印稀有度（common/unusual/rare/etc）
 
-### Mob Base Type
-- `{0}` Will print the internal id (rock/cactus/wasp_hel)
+### 生物基础类型
+- `{0}` 将打印内部 ID（rock/cactus/wasp_hel）
 
-### Mob Rarity
-- `{0}` Will print the rarity (common/unusual/rare/etc)
-- `{0:color}` Will print the rarity color (#7EEF6D, #FFE65D, etc)
+### 生物稀有度
+- `{0}` 将打印稀有度（common/unusual/rare/etc）
+- `{0:color}` 将打印稀有度颜色（#7EEF6D、#FFE65D 等）
 
-### Petal Type
-- `{0:base}` Will print the internal id (rock/cactus/magic_stinger)
-- `{0:rarity}` Will print the rarity (common/unusual/rare/etc)
+### 花瓣类型
+- `{0:base}` 将打印内部 ID（rock/cactus/magic_stinger）
+- `{0:rarity}` 将打印稀有度（普通/不寻常/稀有/等等）
 
-### Petal Base Type
-- `{0}` Will print the internal id (rock/cactus/magic_stinger)
+### 花瓣基础类型
+- `{0}` 将打印内部 ID（岩石/仙人掌/魔法刺客）
 
-### Petal Rarity
-- `{0}` Will print the rarity (common/unusual/rare/etc)
-- `{0:color}` Will print the rarity color (#7EEF6D, #FFE65D, etc)
+### 花瓣稀有度
+- `{0}` 将打印稀有度（普通/不寻常/稀有/等等）
+- `{0:color}` 将打印稀有度颜色（#7EEF6D、#FFE65D 等）
