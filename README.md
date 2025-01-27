@@ -2,7 +2,7 @@
 
 `{0}` will get replaced by whatever argument number that is. Some (like mob types, petal types) accept a separate argument to know what to fetch in that argument, or how to format it. For example, a petal argument 0 can print its rarity (common/unusual/etc) using `{0:rarity}`, or its internal name with `{0:base}` (cactus, rose, magic_stinger etc.)
 
-As a rough guide, doing `{#key}` will fetch another key in the translation files of the same language. It can be nested to accomplish more complex substitutions. You can to forward the arguments you want to that new key, for example: `{#key:0:2}`. will forward the 0th and 2nd arguments in that order (so 0th and 1st when processing that key). If you don't specify which arguments to forward, it'll forward all of them in order. You can also specify multiply keys. For example, in `{#key1#key2}` it'll first look for `key1`, and if it can't be found, it'll fetch `key2` instead.
+`{#key}` will fetch another key in the translation files of the same language. It can be nested to accomplish more complex substitutions. You can to forward the arguments you want to that new key, for example: `{#key:0:2}`. will forward the 0th and 2nd arguments in that order (so 0th and 1st when processing that key). If you don't specify which arguments to forward, it'll forward all of them in order. You can also specify multiply keys. For example, in `{#key1#key2}` it'll first look for `key1`, and if it can't be found, it'll fetch `key2` instead. If no keys can be found, it'll be replaced by an empty string (it's not an error by itself).
 
 
 An example of how rarities are done in English:
