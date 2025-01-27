@@ -52,7 +52,7 @@ Run `florrio.utils.uploadCustomLang();` in the JS console. That will prompt you 
 
 ### Mob Rarity
 - `{0}` Will print the rarity (common/unusual/rare/etc)
-- `{0:color}` Will print the rarity color (#7EEF6D, #0xFFE65D, etc)
+- `{0:color}` Will print the rarity color (#7EEF6D, #FFE65D, etc)
 
 ### Petal Type
 - `{0:base}` Will print the internal id (rock/cactus/magic_stinger)
@@ -63,4 +63,4 @@ Run `florrio.utils.uploadCustomLang();` in the JS console. That will prompt you 
 
 ### Petal Rarity
 - `{0}` Will print the rarity (common/unusual/rare/etc)
-- `{0:color}` Will print the rarity color (#7EEF6D, #0xFFE65D, etc)
+- `{0:color}` Will print the rarity color (#7EEF6D, #FFE65D, etc)
