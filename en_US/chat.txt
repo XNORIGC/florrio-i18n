@@ -3,8 +3,8 @@ Petals/AnnouncementPrefix={#Rarities/{0:rarity}/ArticleUpper} {#Rarities/{0:rari
 
 Chat/PetalCraftedUnnamed={#Chat/PetalCraftedUnnamed/{0:rarity:is-unique}}
 Chat/PetalCraftedNamed={#Chat/PetalCraftedNamed/{0:rarity:is-unique}}
-Chat/PetalCraftedUnnamed/unique={#Petals/AnnouncementPrefix:0} has been forged!
-Chat/PetalCraftedNamed/unique={#Petals/AnnouncementPrefix:0} has been forged by {1}!
+Chat/PetalCraftedUnnamed/unique=The {#Rarities/{0:rarity}/Name} {#Petals/{0:base}/FullName} has been forged!
+Chat/PetalCraftedNamed/unique=The {#Rarities/{0:rarity}/Name} {#Petals/{0:base}/FullName} has been forged by {1}!
 Chat/PetalCraftedUnnamed/not-unique={#Petals/AnnouncementPrefix:0} has been crafted!
 Chat/PetalCraftedNamed/not-unique={#Petals/AnnouncementPrefix:0} has been crafted by {1}!
 
