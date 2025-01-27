@@ -67,6 +67,8 @@ UI/Mob/Name={#Mobs/{0:base}/Name}
 UI/Mob/Description={#Mobs/{0:base}/Description}
 UI/Mob/Rarity={#Rarities/{0:rarity}/Name}
 
+UI/Map/Name={#Maps/{0}/Name}
+
 UI/Talent/Rarity={#Rarities/{0}/Name}
 
 UI/Craft/Title=Craft
