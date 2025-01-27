@@ -43,6 +43,8 @@ Chat/ServerNoLongerClosing=Server is no longer scheduled to close.
 Chat/Channel/Local=Local
 Chat/Channel/Squad=Squad
 Chat/Channel/Guild=Guild
+Chat/Channel/Whisper=Whisper
+Chat/Channel/WhisperTo=@{0}
 Chat/Channel/Map=Map
 Chat/Channel/Global=Global
 
@@ -74,3 +76,7 @@ Chat/Command/TargetNotFound=Can't find target.
 Chat/Command/TargetMustHaveFlower=Target doesn't have a flower.
 Chat/Command/InternalError=Internal error.
 Chat/Command/InvalidPetalArgument=Invalid petal id.
+Chat/Command/InvalidWhisperTarget=Invalid target.
+Chat/Command/WhisperTargetNotFound=Target not found.
+Chat/Command/WhisperTargetNotConnected=Target not connected.
+Chat/Command/WhisperSelf=You can keep those thoughts in your head.
